@@ -3,9 +3,9 @@
 $(document).ready(function () {
   // INITIALIZATION
   // ==============
-  var APPLICATION_ID = 'latency';
-  var SEARCH_ONLY_API_KEY = '6be0576ff61c053d5f9a3225e2a90f76';
-  var INDEX_NAME = 'demo-geosearch';
+  var APPLICATION_ID = 'KYVLLB8J2B';
+  var SEARCH_ONLY_API_KEY = 'a6972272b768980e6dfc7dfa076706da';
+  var INDEX_NAME = 'affilies';
   var PARAMS = {hitsPerPage: 60};
 
   // Client + Helper initialization
